@@ -1,0 +1,7 @@
+C:\Projetos\LINQ\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.exe.config
+C:\Projetos\LINQ\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.exe
+C:\Projetos\LINQ\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.pdb
+C:\Projetos\LINQ\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.csprojAssemblyReference.cache
+C:\Projetos\LINQ\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.csproj.CoreCompileInputs.cache
+C:\Projetos\LINQ\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.exe
+C:\Projetos\LINQ\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.pdb
